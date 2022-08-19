@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashutosh1Adglobal360
+- 👋 Hi, I’m @Ashutosh
 - 👀 I’m interested in Collaborative Learning
 - 🌱 I’m currently learning MERN and MEAN stack 
 - 💞️ I’m looking to collaborate on Web Development
